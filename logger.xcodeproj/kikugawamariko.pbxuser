@@ -1,0 +1,161 @@
+// !$*UTF8*$!
+{
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 3C3F414413A9C6B800AD21E0 /* logger */;
+		activeTarget = 8D1107260486CEB800E47090 /* logger */;
+		addToTargets = (
+			8D1107260486CEB800E47090 /* logger */,
+		);
+		codeSenseManager = 3C3F415613A9C6CA00AD21E0 /* Code sense */;
+		executables = (
+			3C3F414413A9C6B800AD21E0 /* logger */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					341,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 329978830;
+			PBXWorkspaceStateSaveDate = 329978830;
+		};
+		perUserProjectItems = {
+			3C3F419F13A9E4FE00AD21E0 /* PBXTextBookmark */ = 3C3F419F13A9E4FE00AD21E0 /* PBXTextBookmark */;
+			3CBD477013AC24BE0051568B /* PBXTextBookmark */ = 3CBD477013AC24BE0051568B /* PBXTextBookmark */;
+			3CBD477113AC24BE0051568B /* PBXTextBookmark */ = 3CBD477113AC24BE0051568B /* PBXTextBookmark */;
+			3CBD477213AC24BE0051568B /* PBXTextBookmark */ = 3CBD477213AC24BE0051568B /* PBXTextBookmark */;
+		};
+		sourceControlManager = 3C3F415513A9C6CA00AD21E0 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	29B97316FDCFA39411CA2CEA /* main.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {519, 228}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 243}";
+		};
+	};
+	3C3F414413A9C6B800AD21E0 /* logger */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = logger;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	3C3F415513A9C6CA00AD21E0 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	3C3F415613A9C6CA00AD21E0 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	3C3F415813A9CAFB00AD21E0 /* LoggerContoler.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {519, 307}}";
+			sepNavSelRange = "{257, 0}";
+			sepNavVisRange = "{73, 300}";
+		};
+	};
+	3C3F415913A9CAFB00AD21E0 /* LoggerContoler.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {572, 1022}}";
+			sepNavSelRange = "{1685, 0}";
+			sepNavVisRange = "{192, 634}";
+		};
+	};
+	3C3F419F13A9E4FE00AD21E0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 3C3F415813A9CAFB00AD21E0 /* LoggerContoler.h */;
+		name = "LoggerContoler.h: 15";
+		rLen = 0;
+		rLoc = 257;
+		rType = 0;
+		vrLen = 344;
+		vrLoc = 24;
+	};
+	3CBD477013AC24BE0051568B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 29B97316FDCFA39411CA2CEA /* main.m */;
+		name = "main.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 243;
+		vrLoc = 0;
+	};
+	3CBD477113AC24BE0051568B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 3C3F415913A9CAFB00AD21E0 /* LoggerContoler.m */;
+		name = "LoggerContoler.m: 51";
+		rLen = 0;
+		rLoc = 1685;
+		rType = 0;
+		vrLen = 634;
+		vrLoc = 192;
+	};
+	3CBD477213AC24BE0051568B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 3C3F415813A9CAFB00AD21E0 /* LoggerContoler.h */;
+		name = "LoggerContoler.h: 15";
+		rLen = 0;
+		rLoc = 257;
+		rType = 0;
+		vrLen = 300;
+		vrLoc = 73;
+	};
+	8D1107260486CEB800E47090 /* logger */ = {
+		activeExec = 0;
+		executables = (
+			3C3F414413A9C6B800AD21E0 /* logger */,
+		);
+	};
+}

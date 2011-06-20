@@ -1,0 +1,215 @@
+Tlogger
+v7
+r0
+t329978888.612481
+cCheck dependencies
+cProcessInfoPlistFile /Users/kikugawamariko/XCodeProjects/logger/build/Debug/logger.app/Contents/Info.plist logger-Info.plist
+cCopyStringsFile /Users/kikugawamariko/XCodeProjects/logger/build/Debug/logger.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+cCompileXIB /Users/kikugawamariko/XCodeProjects/logger/English.lproj/MainMenu.xib
+cProcessPCH /var/folders/4P/4Plrz3LXHW032A33CCBvCE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/logger_Prefix-afyeckenpbwbftdfmrhrwbdqchel/logger_Prefix.pch.gch logger_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/logger.build/Debug/logger.build/Objects-normal/x86_64/main.o /Users/kikugawamariko/XCodeProjects/logger/main.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/logger.build/Debug/logger.build/Objects-normal/x86_64/LoggerContoler.o /Users/kikugawamariko/XCodeProjects/logger/LoggerContoler.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/kikugawamariko/XCodeProjects/logger/build/Debug/logger.app/Contents/MacOS/logger normal x86_64
+cTouch /Users/kikugawamariko/XCodeProjects/logger/build/Debug/logger.app
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004DB7BB0E00000000000000EE
+t1303886606
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h
+c0000000040C4AA6800000000000001E5
+t1086630504
+s485
+
+N/System/Library/Frameworks/Cocoa.framework/Cocoa
+c000000004A1F2D63000000000000A5E0
+t1243557219
+s42464
+
+N/Users/kikugawamariko/XCodeProjects/logger/English.lproj/InfoPlist.strings
+c000000004DF98F38000000000000002D
+t1308200760
+s45
+
+N/Users/kikugawamariko/XCodeProjects/logger/English.lproj/MainMenu.xib
+c000000004DF9A904000000000002EFE3
+t1308207364
+s192483
+
+N/Users/kikugawamariko/XCodeProjects/logger/LoggerContoler.h
+c000000004DF9AD340000000000000199
+t1308208436
+s409
+i<Cocoa/Cocoa.h>
+
+N/Users/kikugawamariko/XCodeProjects/logger/LoggerContoler.m
+c000000004DF9DB9000000000000008FF
+t1308220304
+s2303
+i"LoggerContoler.h"
+
+N/Users/kikugawamariko/XCodeProjects/logger/build/Debug/logger.app
+t1308220306
+s102
+
+N/Users/kikugawamariko/XCodeProjects/logger/build/Debug/logger.app/Contents/Info.plist
+t1308204129
+s1281
+
+N/Users/kikugawamariko/XCodeProjects/logger/build/Debug/logger.app/Contents/MacOS/logger
+t1308220306
+s18200
+
+N/Users/kikugawamariko/XCodeProjects/logger/build/Debug/logger.app/Contents/PkgInfo
+t1308204129
+s8
+
+N/Users/kikugawamariko/XCodeProjects/logger/build/Debug/logger.app/Contents/Resources/English.lproj/InfoPlist.strings
+t1308204130
+s92
+
+N/Users/kikugawamariko/XCodeProjects/logger/build/Debug/logger.app/Contents/Resources/English.lproj/MainMenu.nib
+t1308207368
+s36499
+
+N/Users/kikugawamariko/XCodeProjects/logger/build/logger.build/Debug/logger.build/Objects-normal/x86_64/LoggerContoler.o
+t1308220306
+s28940
+
+N/Users/kikugawamariko/XCodeProjects/logger/build/logger.build/Debug/logger.build/Objects-normal/x86_64/logger.LinkFileList
+c000000004DF99C6100000000000000E6
+t1308204129
+s230
+
+N/Users/kikugawamariko/XCodeProjects/logger/build/logger.build/Debug/logger.build/Objects-normal/x86_64/loggerAppDelegate.o
+t2
+s0
+
+N/Users/kikugawamariko/XCodeProjects/logger/build/logger.build/Debug/logger.build/Objects-normal/x86_64/main.o
+t1308204137
+s5008
+
+N/Users/kikugawamariko/XCodeProjects/logger/loggerAppDelegate.h
+c000000004DF98F380000000000000153
+t1308200760
+s339
+i<Cocoa/Cocoa.h>
+
+N/Users/kikugawamariko/XCodeProjects/logger/loggerAppDelegate.m
+c000000004DF98F380000000000000187
+t1308200760
+s391
+i"loggerAppDelegate.h"
+
+N/Users/kikugawamariko/XCodeProjects/logger/logger_Prefix.pch
+c000000004DF98F38000000000000008F
+t1308200760
+s143
+i<Cocoa/Cocoa.h>
+
+N/Users/kikugawamariko/XCodeProjects/logger/main.m
+c000000004DF98F380000000000000117
+t1308200760
+s279
+i<Cocoa/Cocoa.h>
+
+N/var/folders/4P/4Plrz3LXHW032A33CCBvCE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/logger_Prefix-afyeckenpbwbftdfmrhrwbdqchel/logger_Prefix.pch.gch
+t1308204136
+s54306576
+
+Nlogger-Info.plist
+c000000004DF98F3800000000000003EA
+t1308200760
+s1002
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies329978888#329978888#0(0"0(0#1#0"2513076880#0"0#
+
+CCompileC build/logger.build/Debug/logger.build/Objects-normal/x86_64/LoggerContoler.o /Users/kikugawamariko/XCodeProjects/logger/LoggerContoler.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s329913106.360984
+e329913106.718519
+r1
+xCompileC
+xbuild/logger.build/Debug/logger.build/Objects-normal/x86_64/LoggerContoler.o
+x/Users/kikugawamariko/XCodeProjects/logger/LoggerContoler.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@67"Compile /Users/kikugawamariko/XCodeProjects/logger/LoggerContoler.m329913106#329913106#0(0"0(0#0#59"/Users/kikugawamariko/XCodeProjects/logger/LoggerContoler.m2513076880#1494"    cd /Users/kikugawamariko/XCodeProjects/logger    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/kikugawamariko/XCodeProjects/logger/build/logger.build/Debug/logger.build/logger-generated-files.hmap -I/Users/kikugawamariko/XCodeProjects/logger/build/logger.build/Debug/logger.build/logger-own-target-headers.hmap -I/Users/kikugawamariko/XCodeProjects/logger/build/logger.build/Debug/logger.build/logger-all-target-headers.hmap -iquote /Users/kikugawamariko/XCodeProjects/logger/build/logger.build/Debug/logger.build/logger-project-headers.hmap -F/Users/kikugawamariko/XCodeProjects/logger/build/Debug -I/Users/kikugawamariko/XCodeProjects/logger/build/Debug/include -I/Users/kikugawamariko/XCodeProjects/logger/build/logger.build/Debug/logger.build/DerivedSources/x86_64 -I/Users/kikugawamariko/XCodeProjects/logger/build/logger.build/Debug/logger.build/DerivedSources -include /var/folders/4P/4Plrz3LXHW032A33CCBvCE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/logger_Prefix-afyeckenpbwbftdfmrhrwbdqchel/logger_Prefix.pch -c /Users/kikugawamariko/XCodeProjects/logger/LoggerContoler.m -o /Users/kikugawamariko/XCodeProjects/logger/build/logger.build/Debug/logger.build/Objects-normal/x86_64/LoggerContoler.o0#
+
+CCompileC build/logger.build/Debug/logger.build/Objects-normal/x86_64/loggerAppDelegate.o /Users/kikugawamariko/XCodeProjects/logger/loggerAppDelegate.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/logger.build/Debug/logger.build/Objects-normal/x86_64/main.o /Users/kikugawamariko/XCodeProjects/logger/main.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s329896936.723510
+e329896937.133510
+r1
+xCompileC
+xbuild/logger.build/Debug/logger.build/Objects-normal/x86_64/main.o
+x/Users/kikugawamariko/XCodeProjects/logger/main.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@57"Compile /Users/kikugawamariko/XCodeProjects/logger/main.m329896936#329896937#0(0"0(0#0#49"/Users/kikugawamariko/XCodeProjects/logger/main.m2513076880#1474"    cd /Users/kikugawamariko/XCodeProjects/logger    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/kikugawamariko/XCodeProjects/logger/build/logger.build/Debug/logger.build/logger-generated-files.hmap -I/Users/kikugawamariko/XCodeProjects/logger/build/logger.build/Debug/logger.build/logger-own-target-headers.hmap -I/Users/kikugawamariko/XCodeProjects/logger/build/logger.build/Debug/logger.build/logger-all-target-headers.hmap -iquote /Users/kikugawamariko/XCodeProjects/logger/build/logger.build/Debug/logger.build/logger-project-headers.hmap -F/Users/kikugawamariko/XCodeProjects/logger/build/Debug -I/Users/kikugawamariko/XCodeProjects/logger/build/Debug/include -I/Users/kikugawamariko/XCodeProjects/logger/build/logger.build/Debug/logger.build/DerivedSources/x86_64 -I/Users/kikugawamariko/XCodeProjects/logger/build/logger.build/Debug/logger.build/DerivedSources -include /var/folders/4P/4Plrz3LXHW032A33CCBvCE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/logger_Prefix-afyeckenpbwbftdfmrhrwbdqchel/logger_Prefix.pch -c /Users/kikugawamariko/XCodeProjects/logger/main.m -o /Users/kikugawamariko/XCodeProjects/logger/build/logger.build/Debug/logger.build/Objects-normal/x86_64/main.o0#
+
+CCompileXIB /Users/kikugawamariko/XCodeProjects/logger/English.lproj/MainMenu.xib
+s329900168.375407
+e329900168.736204
+r1
+xCompileXIB
+x/Users/kikugawamariko/XCodeProjects/logger/English.lproj/MainMenu.xib
+lSLF07#2@37"CompileXIB English.lproj/MainMenu.xib329900168#329900168#0(0"0(0#0#69"/Users/kikugawamariko/XCodeProjects/logger/English.lproj/MainMenu.xib2513076880#375"    cd /Users/kikugawamariko/XCodeProjects/logger    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/kikugawamariko/XCodeProjects/logger/build/Debug/logger.app/Contents/Resources/English.lproj/MainMenu.nib /Users/kikugawamariko/XCodeProjects/logger/English.lproj/MainMenu.xib --sdk /Developer/SDKs/MacOSX10.6.sdk0#
+
+CCopyStringsFile /Users/kikugawamariko/XCodeProjects/logger/build/Debug/logger.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+s329896929.649826
+e329896930.434504
+r1
+xCopyStringsFile
+x/Users/kikugawamariko/XCodeProjects/logger/build/Debug/logger.app/Contents/Resources/English.lproj/InfoPlist.strings
+xEnglish.lproj/InfoPlist.strings
+lSLF07#2@36"Copy English.lproj/InfoPlist.strings329896929#329896930#0(0"0(0#0#74"/Users/kikugawamariko/XCodeProjects/logger/English.lproj/InfoPlist.strings4750400#372"    cd /Users/kikugawamariko/XCodeProjects/logger    setenv ICONV /usr/bin/iconv    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-8 --outputencoding UTF-16 English.lproj/InfoPlist.strings --outdir /Users/kikugawamariko/XCodeProjects/logger/build/Debug/logger.app/Contents/Resources/English.lproj0#
+
+CLd /Users/kikugawamariko/XCodeProjects/logger/build/Debug/logger.app/Contents/MacOS/logger normal x86_64
+s329913106.718606
+e329913106.854742
+r1
+xLd
+x/Users/kikugawamariko/XCodeProjects/logger/build/Debug/logger.app/Contents/MacOS/logger
+xnormal
+xx86_64
+lSLF07#2@92"Link /Users/kikugawamariko/XCodeProjects/logger/build/Debug/logger.app/Contents/MacOS/logger329913106#329913106#0(0"0(0#0#0"2513076880#557"    cd /Users/kikugawamariko/XCodeProjects/logger    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/kikugawamariko/XCodeProjects/logger/build/Debug -F/Users/kikugawamariko/XCodeProjects/logger/build/Debug -filelist /Users/kikugawamariko/XCodeProjects/logger/build/logger.build/Debug/logger.build/Objects-normal/x86_64/logger.LinkFileList -mmacosx-version-min=10.6 -framework Cocoa -o /Users/kikugawamariko/XCodeProjects/logger/build/Debug/logger.app/Contents/MacOS/logger0#
+
+CProcessInfoPlistFile /Users/kikugawamariko/XCodeProjects/logger/build/Debug/logger.app/Contents/Info.plist logger-Info.plist
+s329896929.528100
+e329896929.649667
+r1
+xProcessInfoPlistFile
+x/Users/kikugawamariko/XCodeProjects/logger/build/Debug/logger.app/Contents/Info.plist
+xlogger-Info.plist
+lSLF07#2@25"Process logger-Info.plist329896929#329896929#0(0"0(0#0#60"/Users/kikugawamariko/XCodeProjects/logger/logger-Info.plist4261848#319"    cd /Users/kikugawamariko/XCodeProjects/logger    builtin-infoPlistUtility logger-Info.plist -genpkginfo /Users/kikugawamariko/XCodeProjects/logger/build/Debug/logger.app/Contents/PkgInfo -expandbuildsettings -platform macosx -o /Users/kikugawamariko/XCodeProjects/logger/build/Debug/logger.app/Contents/Info.plist0#
+
+CProcessPCH /var/folders/4P/4Plrz3LXHW032A33CCBvCE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/logger_Prefix-afyeckenpbwbftdfmrhrwbdqchel/logger_Prefix.pch.gch logger_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s329896931.107915
+e329896936.723372
+r1
+xProcessPCH
+x/var/folders/4P/4Plrz3LXHW032A33CCBvCE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/logger_Prefix-afyeckenpbwbftdfmrhrwbdqchel/logger_Prefix.pch.gch
+xlogger_Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@28"Precompile logger_Prefix.pch329896931#329896936#0(0"0(0#0#60"/Users/kikugawamariko/XCodeProjects/logger/logger_Prefix.pch2513076880#1377"    cd /Users/kikugawamariko/XCodeProjects/logger    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/kikugawamariko/XCodeProjects/logger/build/logger.build/Debug/logger.build/logger-generated-files.hmap -I/Users/kikugawamariko/XCodeProjects/logger/build/logger.build/Debug/logger.build/logger-own-target-headers.hmap -I/Users/kikugawamariko/XCodeProjects/logger/build/logger.build/Debug/logger.build/logger-all-target-headers.hmap -iquote /Users/kikugawamariko/XCodeProjects/logger/build/logger.build/Debug/logger.build/logger-project-headers.hmap -F/Users/kikugawamariko/XCodeProjects/logger/build/Debug -I/Users/kikugawamariko/XCodeProjects/logger/build/Debug/include -I/Users/kikugawamariko/XCodeProjects/logger/build/logger.build/Debug/logger.build/DerivedSources/x86_64 -I/Users/kikugawamariko/XCodeProjects/logger/build/logger.build/Debug/logger.build/DerivedSources -c /Users/kikugawamariko/XCodeProjects/logger/logger_Prefix.pch -o /var/folders/4P/4Plrz3LXHW032A33CCBvCE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/logger_Prefix-afyeckenpbwbftdfmrhrwbdqchel/logger_Prefix.pch.gch0#
+
+CTouch /Users/kikugawamariko/XCodeProjects/logger/build/Debug/logger.app
+s329913106.854824
+e329913106.857572
+r1
+xTouch
+x/Users/kikugawamariko/XCodeProjects/logger/build/Debug/logger.app
+lSLF07#2@71"Touch /Users/kikugawamariko/XCodeProjects/logger/build/Debug/logger.app329913106#329913106#0(0"0(0#0#0"2513076880#138"    cd /Users/kikugawamariko/XCodeProjects/logger    /usr/bin/touch -c /Users/kikugawamariko/XCodeProjects/logger/build/Debug/logger.app0#
+

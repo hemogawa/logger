@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'logger' target in the 'logger' project
+//
+
+#ifdef __OBJC__
+    #import <Cocoa/Cocoa.h>
+#endif
